@@ -1,0 +1,6 @@
+use_frameworks!
+target 'FTAlert_Tests' do
+  pod 'FTAlert', :path => '../'
+  
+  
+end
